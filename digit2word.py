@@ -1,3 +1,4 @@
+# Create a Python function to print 0 to 999 digits in alphabets?
 def digittoword(n):
   Words_upto_19=['','one','two','three','four','five','six','seven','eight','nine','ten','eleven','twelve','thirteen','fourteen','fifteen','sixteen','seventeen','eighteen','nineteen']
   Words_upto_99=['','','Twenty','Thirty','Fourty','Fifty','Sixty','Seventy','Eighty','Ninety']
